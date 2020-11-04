@@ -10,11 +10,3 @@ Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, phare
 
 Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
 =======
-template: page
-title: Nepal
-slug: Nepal
-socialImage: /media/cpu.svg
-draft: true
----
-here is the CPU
->>>>>>> 93b2205c074663b9e1de63f242a8db31373331f8
