@@ -1,7 +1,9 @@
 ---
-title: "Nepal me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: Nepal me
+slug: nepal
+socialImage: /media/image-2.jpg
+draft: true
 ---
 
 Nepal me?
